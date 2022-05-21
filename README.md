@@ -14,4 +14,13 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor-47C5FB)
 
 
-Follow Me
+                    
+
+## Связь
+[![vkontakte](https://img.shields.io/badge/-vkontakte-090909?style=for-the-badge&logo=vk&logoColor-47C5FB)](https://vk.com/id349722072)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor-47C5FB)](https://t.me/Mutaev10)
+
+
+
+
+
