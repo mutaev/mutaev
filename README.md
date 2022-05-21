@@ -1,7 +1,7 @@
 ![Header](https://github.com/mutaev/mutaev/blob/main/assets/back.gif)
 
 
-About me
+## Я начинающий Frontend разработчик.
 
 
 Latest Youtube Videous
