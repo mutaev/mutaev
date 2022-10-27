@@ -3,8 +3,14 @@
 
 ## Frontend Developer.
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+
 
 
 
@@ -15,7 +21,7 @@
 ![Gulp](https://img.shields.io/badge/GULP-141a5e.svg?style=for-the-badge&logo=gulp&logoColor=red)
 ![SCSS](https://img.shields.io/badge/SASS-141a5e.svg?style=for-the-badge&logo=SASS&logoColor=pink)
 
-
+![codewars](https://www.codewars.com/users/mutaev/badges/large)
 
                     
 
