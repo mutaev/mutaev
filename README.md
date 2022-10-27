@@ -32,6 +32,5 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor-47C5FB)](https://t.me/Mutaev10)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mutaev&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mutaev&show_icons=true&theme=radical)
 
