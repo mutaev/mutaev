@@ -21,6 +21,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
 ![Html](https://img.shields.io/badge/-Html-141a5e?style=for-the-badge&logo=html5&logoColor-47C5FB)
 ![Css](https://img.shields.io/badge/-Css-141a5e?style=for-the-badge&logo=CSS3&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-141a5e?style=for-the-badge&logo=JavaScript&logoColor-47C5FB)
