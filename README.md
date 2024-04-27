@@ -19,6 +19,8 @@
 ![Css](https://img.shields.io/badge/-Css-141a5e?style=for-the-badge&logo=CSS3&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-141a5e?style=for-the-badge&logo=JavaScript&logoColor-47C5FB)
 ![Gulp](https://img.shields.io/badge/GULP-141a5e.svg?style=for-the-badge&logo=gulp&logoColor=red)
+![Gulp](https://img.shields.io/badge/GULP-141a5e.svg?style=for-the-badge&logo=gulp&logoColor=red)
+![Vue](https://img.shields.io/badge/Vue-141a5e.svg?style=for-the-badge&logo=gulp&logoColor=red)
 ![SCSS](https://img.shields.io/badge/SASS-141a5e.svg?style=for-the-badge&logo=SASS&logoColor=pink)
 
 ![codewars](https://www.codewars.com/users/mutaev/badges/large)
